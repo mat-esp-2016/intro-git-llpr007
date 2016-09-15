@@ -22,6 +22,18 @@ Instruções do jogo:
 
 	(................)
 	
+Instruções do jogo A.01:
+ 
+- Desvire as cartas 01 e 02;
+- Se o valor da carta 01 é maior que valor da carta 02, troque de lugar;
+- Vire as cartas 01 e 02
+- Desvire as cartas 02 e 03;
+- Se o valor de carta 02 é maior que valor da carta 03, troque de lugar;
+- Vire as cartas 02 e 03;
+- (...) (Até as cartas 04 e 05);
+- Desvire as cartas 01 e 03;
+- (...) (Até as cartas 03 e 04);
+- Carta_Final
 
 	
 
