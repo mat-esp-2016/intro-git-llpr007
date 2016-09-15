@@ -1,0 +1,27 @@
+Regras do Jogo:
+
+1- Desvire apenas 2 cartas por vez 
+2- Só troque de lugar ( apenas se os valores forem convenientes)
+3- Esqueça tudo
+
+
+Instruções do jogo:
+
+	Considere 5 cartas viradas com a face para baixo, posicionadas horizontalmente. 
+	Nomeie as cartas da esquerda para a direita, como: Primeira, segunda, terceira, quarta e quinta.
+ 	Vire a primeira e a segunda carta, troque-as se o valor da carta da esquerda for maior que o valor da carta da direita. 
+	Após isso, vire a segunda e a terceira carta, troque-as se o valor da carta esquerda for maior que o valor da carta da direita.
+	Em seguida, vire a terceira e a quarta carta, troque-as se o valor da carta esquerda for maior que o valor da carta da direita.
+	Faço o mesmo com a quarta e quinta carta, percebendo que a quinta carta será a de maior valor na ordem crescente da posição esquerda-direita.
+	Sendo assim, a quinta carta não precisará ser mais alterada.
+
+	Considera as 4 cartas restantes viradas com a face pra baixo, posicionadas horizontalmente.
+	Nomeie-as novamente da esquerda pra direita como: primeira, segunda, terceira e quarta.
+	Vire a primeira e a segunda carta, troque-as se o valor da carta da esquerda for maior que o valor da carta da direita.
+	Após isso, vire a segunda carta, troque-as se o valor da carta da esquerda for maior que o valor da carta da direita.
+
+	(................)
+	
+
+	
+
