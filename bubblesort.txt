@@ -1,39 +1,10 @@
-Regras do Jogo:
-
-1- Desvire apenas 2 cartas por vez 
-2- Só troque de lugar ( apenas se os valores forem convenientes)
-3- Esqueça tudo
 
 
-Instruções do jogo:
-
-	Considere 5 cartas viradas com a face para baixo, posicionadas horizontalmente. 
-	Nomeie as cartas da esquerda para a direita, como: Primeira, segunda, terceira, quarta e quinta.
- 	Vire a primeira e a segunda carta, troque-as se o valor da carta da esquerda for maior que o valor da carta da direita. 
-	Após isso, vire a segunda e a terceira carta, troque-as se o valor da carta esquerda for maior que o valor da carta da direita.
-	Em seguida, vire a terceira e a quarta carta, troque-as se o valor da carta esquerda for maior que o valor da carta da direita.
-	Faço o mesmo com a quarta e quinta carta, percebendo que a quinta carta será a de maior valor na ordem crescente da posição esquerda-direita.
-	Sendo assim, a quinta carta não precisará ser mais alterada.
-
-	Considera as 4 cartas restantes viradas com a face pra baixo, posicionadas horizontalmente.
-	Nomeie-as novamente da esquerda pra direita como: primeira, segunda, terceira e quarta.
-	Vire a primeira e a segunda carta, troque-as se o valor da carta da esquerda for maior que o valor da carta da direita.
-	Após isso, vire a segunda carta, troque-as se o valor da carta da esquerda for maior que o valor da carta da direita.
-
-	(................)
-	
-Instruções do jogo A.01:
- 
-- Desvire as cartas 01 e 02;
-- Se o valor da carta 01 é maior que valor da carta 02, troque de lugar;
-- Vire as cartas 01 e 02
-- Desvire as cartas 02 e 03;
-- Se o valor de carta 02 é maior que valor da carta 03, troque de lugar;
-- Vire as cartas 02 e 03;
-- (...) (Até as cartas 04 e 05);
-- Desvire as cartas 01 e 03;
-- (...) (Até as cartas 03 e 04);
-- Carta_Final
-
-	
+1º Variável n.
+2º Variável a>0 pertencente aos naturais menos o zero, n=nº máximo de cartas, a=posição da carta.
+3º Vire as cartas de posição a e (a+1), se o valor em a>(a+1), troque-as de lugar e desvire.
+4º Some 1 a "a" até [(a+1)=n].
+5º Pare se a=2.
+6º Se a=n subtraia 1 a n
+7º Repita o processo desde o começo.
 
